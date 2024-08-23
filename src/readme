@@ -1,0 +1,16 @@
+OVERVIEW :
+The Task Management System is a simple Java-based application designed to manage tasks efficiently. 
+It allows users to add, update, view, and delete tasks, helping in organizing and prioritizing their work. 
+This project is an excellent starting point for understanding object-oriented programming in Java and working with basic Java concepts like classes, objects, and lists.
+
+FEATURES :
+Add Task: Create a new task with a title and description.
+Update Task: Modify the details of an existing task.
+Delete Task: Remove a task from the system.
+View Tasks: Display all tasks with their details.
+Mark as Complete: Mark a task as completed.
+
+TECHNOLOGIES USED :
+Java: Core programming language used to build the application.
+IntelliJ IDEA: Integrated Development Environment (IDE) for writing and running the code.
+Git: Version control system to manage code changes.
