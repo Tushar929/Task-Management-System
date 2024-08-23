@@ -1,0 +1,12 @@
+TaskManagementSystem/
+│
+├── src/
+│   ├── main/
+│   │   ├── Task.java          # Task class representing a task
+│   │   ├── TaskManager.java   # TaskManager class managing the list of tasks
+│   │   └── Main.java          # Entry point for the application
+│   └── test/
+│       └── TaskManagerTest.java  # JUnit test cases for TaskManager
+│
+├── README.md                  # Project documentation
+└── .gitignore                 # Files and directories to ignore in git
